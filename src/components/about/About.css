@@ -1,0 +1,78 @@
+.customCard {
+  padding: 20px;
+  box-shadow: 0 2px 8px 0 gray;
+  width: 360px !important;
+  margin: 20px;
+  background-color: rgb(241, 238, 238) !important;
+  color: black;
+}
+.card-content {
+  transition: opacity 0.5s ease-in-out;
+}
+.card.show-content .card-content {
+  opacity: 1;
+}
+.img {
+  width: 315px !important;
+}
+.card-body-container {
+  display: flex;
+  flex-direction: column;
+}
+.custom-card-body {
+  display: flex;
+  flex-direction: column;
+  padding: 0px !important ;
+}
+.mission_statement {
+  display: flex;
+  flex-direction: column;
+  font-size: 18px;
+  margin-top: 80px;
+  margin-bottom: 30px;
+  text-align: justify;
+}
+.mission_statement_title {
+  font-size: 32px;
+}
+.Skills {
+  font-size: larger;
+  font-weight: bold;
+}
+.our-team-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+.field{
+  color: rgb(93, 91, 91);
+}
+.member {
+  font-size: 2rem;
+  margin-bottom: 16px;
+  color :darkslategray;
+}
+.socialMediaIcon{
+  margin-right: 20px;
+  margin-top: 15px;
+    color: darkslategray;
+
+}
+.head {
+  position: relative;
+  top: 0px;
+}
+
+
+.customPadding {
+  padding-top: 70px;
+}
+@media only screen and (max-width: 1100px) {
+  .card-body-container {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  .customCard {
+    width: 400px;
+  }
+}

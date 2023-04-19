@@ -1,0 +1,41 @@
+{
+  "teamMembers": [
+    {
+      "name": "Hasan Alrawaqa",
+      "image": "https://i.ibb.co/w0F1Wpw/53261073-2108646995888474-2249399996413640704-n.jpg",
+      "bio": "",
+      "skills": "Analytical thinking | Attention to detail | Problem-solving | Communication skills | Leadership",
+      "field": "Industrial Engineer"
+    },
+    {
+      "name": "Abdallah Toughoj",
+      "image": "https://i.ibb.co/vJNhNNp/Whats-App-Image-2023-04-17-at-2-36-55-PM.jpg",
+      "bio": "",
+      "skills": "problem-solving | time management | passion for learning new things",
+      "field": "Computer Information System"
+    },
+    {
+      "name": "Malek Abdelal",
+      "image": "https://i.ibb.co/WVFSV4B/Malek.jpg",
+      "bio": "",
+      "skills": "Problem Solving | Creative Thinking | Teamwork ",
+      "field": "Computer Engineer"
+    },
+    {
+      "name": "Leena Alzaben",
+      "image": "https://i.ibb.co/Z2wMV8G/Fotor-AI.jpg",
+      "bio": "",
+      "skills": "Enjoys participation in collective work || flexible and always ready to learn.",
+      "field": "biomedical engineer"
+    },
+
+    {
+      "name": "Duaa Melhem",
+      "image": "https://i.ibb.co/MDH4h6J/Fotor-AI-1.jpg",
+      "bio": "",
+      "skills": "Problem-solving | Creativity | Teamwork | Continuous learning",
+      "field": "Computer Science"
+    }
+  ],
+  "missionStatement": "At our news website, it is our fundamental mission to deliver timely, relevant, and factually correct information to our valued readership, while upholding the highest journalistic standards of accuracy, impartiality, and transparency. We are dedicated to providing insightful and in-depth coverage of local, national, and global events, and to holding those in positions of power accountable through rigorous investigative reporting. Furthermore, we strive to foster an informed and engaged citizenry, by empowering our readers with the knowledge and tools they need to make informed decisions about the world around them. Ultimately, our goal is to be a trusted and respected source of news and analysis for all those who seek to stay informed and engaged in the complex and rapidly evolving landscape of today's world."
+}

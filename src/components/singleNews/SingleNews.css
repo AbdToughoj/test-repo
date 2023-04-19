@@ -1,0 +1,25 @@
+#containerDiv {
+  padding: 30px 40px;
+  display: flex;
+  justify-content: center;
+}
+
+#button {
+  position: absolute;
+  right: 20px;
+  bottom: 20px;
+}
+
+.title-link {
+  text-decoration: none;
+  color: #000000;
+}
+.customCard2 {
+  box-shadow: 0 1px 6px 0 rgba(0, 0, 0, 0.175);
+}
+
+.auth-date{
+  display: flex;
+  justify-content: space-between;
+  font-weight:500;
+}
